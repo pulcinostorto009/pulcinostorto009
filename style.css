@@ -1,0 +1,14 @@
+.intestazione{
+    background-color: cyan;
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+    padding: 8px;
+    border-radius: 10px;
+}
+.pagina{ 
+font-size: 20px;
+color: blue;
+
+}
